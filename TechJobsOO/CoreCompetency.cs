@@ -9,6 +9,7 @@ namespace TechJobsOO
 
         // TODO: Change the fields to auto-implemented properties.
 
+
         public CoreCompetency()
         {
             id = nextId;
